@@ -1,0 +1,15 @@
+-rootPath
+D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master
+-cmake-output
+-output-file
+D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/.qt/qml_imports/appCAN_Dashboard_conf.cmake
+-importPath
+D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/CAN_Dashboard
+-importPath
+D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug
+-importPath
+C:/Qt/6.10.1/llvm-mingw_64/qml
+-qrcFiles
+D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/.qt/rcc/qmake_CAN_Dashboard.qrc
+D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/.qt/rcc/appCAN_Dashboard_raw_qml_0.qrc
+D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/.qt/rcc/appCAN_Dashboard_raw_res_0.qrc

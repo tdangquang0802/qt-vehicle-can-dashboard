@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt/qml/CAN_Dashboard/">
+    <file alias="Main.qml">D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/Main.qml</file>
+    <file alias="DongHoTocDo.qml">D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/DongHoTocDo.qml</file>
+    <file alias="DongHoRPM.qml">D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/DongHoRPM.qml</file>
+    <file alias="MyProgressBar.qml">D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/MyProgressBar.qml</file>
+    <file alias="CarBackView.qml">D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/CarBackView.qml</file>
+    <file alias="CAN.qml">D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/CAN.qml</file>
+    <file alias="Mybutton.qml">D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/Mybutton.qml</file>
+  </qresource>
+</RCC>
+

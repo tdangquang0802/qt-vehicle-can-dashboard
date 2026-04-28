@@ -1,0 +1,63 @@
+{
+    "classes": [
+        {
+            "className": "RealTime",
+            "lineNumber": 10,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 2,
+                    "lineNumber": 15,
+                    "name": "startTimer",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "lineNumber": 16,
+                    "name": "datetime",
+                    "notify": "datetimeChanged",
+                    "read": "datetime",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setdatetime"
+                }
+            ],
+            "qualifiedClassName": "RealTime",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 23,
+                    "name": "datetimeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 21,
+                    "name": "printDateTime",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "realtime.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,2 @@
+D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/appCAN_Dashboard_autogen/include/../EWIEGA46WW/moc_realtime.cpp.json
+D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/appCAN_Dashboard_autogen/include/../EWIEGA46WW/moc_stm32.cpp.json

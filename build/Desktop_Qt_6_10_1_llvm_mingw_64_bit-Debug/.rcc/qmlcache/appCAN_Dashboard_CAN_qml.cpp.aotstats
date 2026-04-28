@@ -1,0 +1,63 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 319,
+                            "functionName": "fill",
+                            "line": 4,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 278,
+                            "functionName": "width",
+                            "line": 9,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 15,
+                            "durationMicroseconds": 458,
+                            "functionName": "text",
+                            "line": 10,
+                            "message": "Cannot access value for name cluster"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 19,
+                            "durationMicroseconds": 131,
+                            "functionName": "wrapMode",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 104,
+                            "functionName": "horizontalAlignment",
+                            "line": 15,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 87,
+                            "functionName": "centerIn",
+                            "line": 8,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/CAN.qml"
+                }
+            ],
+            "moduleId": "CAN_Dashboard(appCAN_Dashboard)"
+        }
+    ]
+}

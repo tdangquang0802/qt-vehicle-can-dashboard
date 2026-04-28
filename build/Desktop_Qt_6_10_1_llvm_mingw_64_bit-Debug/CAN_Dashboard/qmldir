@@ -1,0 +1,12 @@
+module CAN_Dashboard
+typeinfo appCAN_Dashboard.qmltypes
+prefer :/qt/qml/CAN_Dashboard/
+Main 254.0 Main.qml
+DongHoTocDo 254.0 DongHoTocDo.qml
+DongHoRPM 254.0 DongHoRPM.qml
+MyProgressBar 254.0 MyProgressBar.qml
+CarBackView 254.0 CarBackView.qml
+CAN 254.0 CAN.qml
+Mybutton 254.0 Mybutton.qml
+depends QtQuick
+

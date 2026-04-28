@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/CAN_Dashboard/">
+    <file alias="asserts_resource.qrc">D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/asserts_resource.qrc</file>
+    <file alias=".gitignore">D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/.gitignore</file>
+  </qresource>
+</RCC>
+

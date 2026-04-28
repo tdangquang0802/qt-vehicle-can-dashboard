@@ -1,0 +1,13 @@
+--resource
+D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/.qt/rcc/qmake_CAN_Dashboard.qrc
+--resource
+D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/.qt/rcc/appCAN_Dashboard_raw_qml_0.qrc
+--resource
+D:/CAN_Dashboard-master-VER1/CAN_Dashboard-master/build/Desktop_Qt_6_10_1_llvm_mingw_64_bit-Debug/.qt/rcc/appCAN_Dashboard_raw_res_0.qrc
+/qt/qml/CAN_Dashboard/Main.qml
+/qt/qml/CAN_Dashboard/DongHoTocDo.qml
+/qt/qml/CAN_Dashboard/DongHoRPM.qml
+/qt/qml/CAN_Dashboard/MyProgressBar.qml
+/qt/qml/CAN_Dashboard/CarBackView.qml
+/qt/qml/CAN_Dashboard/CAN.qml
+/qt/qml/CAN_Dashboard/Mybutton.qml

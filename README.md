@@ -20,11 +20,7 @@ Project phát triển tại **FPT Academy** (Oct 2025 – Jan 2026).
 
 ## 🖥️ Giao diện
 
-> *(Thêm ảnh chụp màn hình dashboard vào đây)*
-
-```
-[ Chụp màn hình app đang chạy → kéo thả vào thư mục docs/ ]
-```
+![Demo](assets/Screenshot 2026-04-29 025416.png)
 
 ---
 
@@ -115,7 +111,7 @@ CAN_Dashboard/
 
 ```bash
 # Clone repo
-git clone https://github.com/YOUR_USERNAME/qt-vehicle-can-dashboard.git
+git clone https://github.com/tdangquang0802/qt-vehicle-can-dashboard.git
 cd qt-vehicle-can-dashboard
 
 # Mở Qt Creator → File → Open Project → chọn CMakeLists.txt
@@ -153,7 +149,7 @@ cd qt-vehicle-can-dashboard
 
 ## 🔗 Project liên quan
 
-- **STM32 CAN Communication** → [github.com/YOUR_USERNAME/stm32-can-communication](https://github.com/YOUR_USERNAME/stm32-can-communication)
+- **STM32 CAN Communication** → [github.com/tdangquang0802/stm32-can-communication](https://github.com/tdangquang0802/stm32-can-communication)
 
 ---
 

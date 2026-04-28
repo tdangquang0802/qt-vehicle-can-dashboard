@@ -20,7 +20,7 @@ Project phát triển tại **FPT Academy** (Oct 2025 – Jan 2026).
 
 ## 🖥️ Giao diện
 
-![Demo](assets/Screenshot 2026-04-29 025416.png)
+<img width="1086" height="640" alt="Screenshot 2026-04-29 025416" src="https://github.com/user-attachments/assets/9de43cb0-af4d-4c95-aab1-4a7c61ae9f5b" />
 
 ---
 
